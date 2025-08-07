@@ -73,3 +73,7 @@ externalPackages/xmltree-2.0/@xmltree/private/xml_findstr.mexa64
 *.events.*
 *.lib
 *.exp
+
+# Python cache files
+__pycache__/
+*.pyc
